@@ -9,3 +9,14 @@ c:\users\loaner\documents\visual studio 2015\Projects\ThePetProject1\ThePetProje
 c:\users\loaner\documents\visual studio 2015\Projects\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.exe
 c:\users\loaner\documents\visual studio 2015\Projects\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.xml
 c:\users\loaner\documents\visual studio 2015\Projects\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.pdb
+C:\Programs\ThePetProject1\ThePetProject1\bin\Debug\ThePetProject1.exe.config
+C:\Programs\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.exe
+C:\Programs\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.xml
+C:\Programs\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.pdb
+C:\Programs\ThePetProject1\ThePetProject1\bin\Debug\ThePetProject1.exe
+C:\Programs\ThePetProject1\ThePetProject1\bin\Debug\ThePetProject1.pdb
+C:\Programs\ThePetProject1\ThePetProject1\bin\Debug\ThePetProject1.xml
+C:\Programs\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.vbprojResolveAssemblyReference.cache
+C:\Programs\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.Resources.resources
+C:\Programs\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.ThePetPoject1.resources
+C:\Programs\ThePetProject1\ThePetProject1\obj\Debug\ThePetProject1.vbproj.GenerateResource.Cache
